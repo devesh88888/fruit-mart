@@ -1,6 +1,6 @@
 # Fruit Mart(an-eCommerce-Site)
 
-Welcome to My eCommerce Site, a simple React-based eCommerce web application.
+Welcome to Fruit Mart, a simple React-based eCommerce web application.
 
 ## Overview
 
